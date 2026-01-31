@@ -59,7 +59,6 @@ Data cleaning
 Removing duplicates in datasets
 
 Interview preparation
-
 Dictionary manipulation practice
 
 🚀 Possible Improvements
