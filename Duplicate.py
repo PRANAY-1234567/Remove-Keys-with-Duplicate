@@ -7,4 +7,5 @@ for k, v in data.items():
         result[k] = v
         seen.add(v)
 
+
 print(result)
