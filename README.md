@@ -15,6 +15,7 @@ Given a dictionary:
 Remove keys that have duplicate values.
 
 ✅ Code
+
 data = {"A": 10, "B": 20, "C": 10}
 result = {}
 seen = set()
